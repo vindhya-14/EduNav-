@@ -1,0 +1,9 @@
+{
+  "features": [
+    0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1,
+    0, 1, 1, 0, 1
+  ],
+  "top_n": 3,
+  "model_path": "./models/career_model.pkl",
+  "encoder_path": "./models/label_encoder.pkl"
+}
